@@ -37,7 +37,7 @@ evaluation.
 ## Live MVP
 🔗 https://careersim2.vercel.app/
 ## Demo Video
-🎥 https://your-video-link
+🎥 https://youtu.be/irGawEPwPUE?si=mHwKKooO3HRhZufe
 
 ## Google Technologies Used
 - Firebase
