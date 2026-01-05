@@ -35,7 +35,7 @@ Architecture is designed to integrate Google Gemini for future LLM-based
 evaluation.
 
 ## Live MVP
-🔗 [[https://your-vercel-link.vercel.app](https://careersim125-git-main-sreshthangso-sarkers-projects.vercel.app)](https://695bde32587043e08bc04aae--cool-licorice-ba2c66.netlify.app/home)
+🔗 [[[https://your-vercel-link.vercel.app](https://careersim125-git-main-sreshthangso-sarkers-projects.vercel.app)](https://695bde32587043e08bc04aae--cool-licorice-ba2c66.netlify.app/home)](https://careersim2.vercel.app/)
 
 ## Demo Video
 🎥 https://your-video-link
